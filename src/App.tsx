@@ -135,7 +135,7 @@ function App() {
               <h3 className="text-2xl font-bold text-gray-900">Nossa História</h3>
             
               <p className="text-gray-600 leading-relaxed">
-                A Reserva Florestal foi criado em 1990 com o objetivo de preservar uma das últimas áreas verdes urbanas da região. Com mais de 150 hectares de mata nativa, a reserva abriga centenas de espécies de flora e fauna local.
+                A Reserva Florestal foi criada em 1990 com o objetivo de preservar uma das últimas áreas verdes urbanas da região. Com mais de 150 hectares de mata nativa, a reserva abriga centenas de espécies de flora e fauna local.
               </p>
               <p className="text-gray-600 leading-relaxed">
                 Nosso compromisso vai além da preservação: educamos, inspiramos e conectamos pessoas com a natureza através de programas educativos, trilhas ecológicas e eventos culturais.
